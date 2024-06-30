@@ -1,4 +1,4 @@
-CV markdown #1 <meta>nometa //"utf88" 
+CV markdown #1 <meta>nometa //"utf888" 
 
 [rsschool-cv](https://www.google.com/)
 ======================================
