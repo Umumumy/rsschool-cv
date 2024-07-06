@@ -1,1 +1,104 @@
+.mid {
+    text-align: start;
+    background-color: rgb(255, 255, 255);
+    margin-right: 800px;
+    position:relative;
+    left: 23%;
+    font-family: Verdana;
+}
+header {
+    
+    margin-right: 859px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: blue;
+    border-bottom:1px solid rgba(92, 94, 94, 0.156);
+    position: relative;
+    right: -23%;
+    text-align: start;
+    
+    
+}
+h3 {
+    margin:0;
+    padding-bottom: 10px;
+    text-align: start;
+    font-weight:bold;
+    font-size:25px;
 
+
+}
+h2 {
+    border-bottom:2px solid rgba(32, 108, 106, 0.347);
+    text-align: start;
+    margin:30px;
+    position:relative;
+    left: -3%;
+    font-size:30px;  
+    font-family: arial;
+
+}
+.linked {
+    border-bottom:2px solid rgba(32, 108, 106, 0.347);
+    margin-bottom:20px;
+    margin-right: 50px;
+
+}
+strong {
+    justify-content: center;
+}
+.code {
+    background-color: rgba(176, 200, 220, 0.273);
+}
+footer {
+    justify-content: start;
+    margin-left:430px;
+    font-size:25px;
+
+    
+}
+button.image-button {
+    background: none;
+    border: none;
+    justify-content: end;
+}
+button.image-button img {
+    width: 100px;
+    justify-content: end;
+    padding-right:100px;
+
+}
+button.image-button:hover{
+    filter: brightness(20%) sepia(1) hue-rotate(180deg);
+}
+nav {
+ color:rgb(255, 255, 255);
+ font-family: system-ui;
+ justify-content: start;
+ font-size:30px;
+ background-color:#1e232c;
+ float:left;
+ padding-bottom:10px;
+ padding-left:60px;
+ margin-left:-70px;
+
+}
+
+a:visited {
+    color:rgb(56, 125, 254);
+}
+span.FooterA {
+padding-right:130px;
+margin-right:50px;
+}
+span.footerB {
+    margin-right:50px;
+}
+span.footerC {
+    font-size: small;
+    font-family: impact;
+    margin-right:100px;
+}
+.text {
+justify-content: center;
+}
